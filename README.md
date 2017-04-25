@@ -1,7 +1,7 @@
 rayshud
 =======
 
-A hud for Team Fortress 2.
+A modified-hybrid HUD of rayshud and FLAWHUD.
 
 About
 -------
