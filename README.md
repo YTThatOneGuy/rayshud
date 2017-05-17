@@ -52,10 +52,6 @@ tf
 ```
 
 
-Help/Support
---------
-
-Please remember that this hud is not completely finished, and will have some bugs within it. You're free to either open a support ticket here on [GitHub](https://github.com/raysfire/rayshud/issues/new), or make a post in the [rayshud Steam Group](https://steamcommunity.com/groups/rayshud), if you need any help/have found a bug.
 
 Credits
 --------
